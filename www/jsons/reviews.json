@@ -1,0 +1,15 @@
+{
+  "isShowMore": true,
+  "review": [
+    {
+      "imgUrl": "images/ava-inna.jpg",
+      "name": "Чебуратор",
+      "text": "Все с головой хорошо"
+    },
+    {
+      "imgUrl": "images/ava-jekki.jpg",
+      "name": "Терминатор",
+      "text": "А у меня с процессором"
+    }
+  ]
+}
